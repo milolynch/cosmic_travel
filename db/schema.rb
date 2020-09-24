@@ -13,6 +13,7 @@
 ActiveRecord::Schema.define(version: 2020_09_23_032914) do
 
   create_table "missions", force: :cascade do |t|
+    t.string "name"
     t.integer "planet_id"
     t.integer "scientist_id"
     t.datetime "created_at", precision: 6, null: false

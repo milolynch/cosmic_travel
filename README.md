@@ -19,6 +19,8 @@ It is the year 2100 and you run an interplanetary space travel agency.  You are 
 
     - Clicking on a scientist should take you to a detail page about the scientist, including listing all the planets they have visited.
 
+
+I do not know how to do this
     - A user should be able to create a new scientist.
         - Scientists must have a name and a field of study
         - Scientists' names should be unique
